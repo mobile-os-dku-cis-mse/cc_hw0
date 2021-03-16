@@ -6,3 +6,4 @@ cloud computing hw0, register yourself to the class
   1.		Kitae Park		32161570
   2.		Dongho Lee		32163103
   3.		Minseo Lee		32163122
+  4.		Heejo Park		32161971
