@@ -8,4 +8,3 @@ cloud computing hw0, register yourself to the class
   3.		Minseo Lee		32163122
   4.		Heejo Park		32161971
   5.		Deby Angelina	32185173
-  6.		Jihoon Ryu       32161454
