@@ -7,5 +7,6 @@ cloud computing hw0, register yourself to the class
   2.		Dongho Lee		32163103
   3.		Minseo Lee		32163122
   4.		Heejo Park		32161971
-  5.		Deby Angelina	32185173
-  6.		Jason Andersen Winfrey 32199104
+  5.		Deby Angelina		32185173
+  6.		Jason Andersen Winfrey 	32199104
+  7.		Jihoon Ryu		32161454
